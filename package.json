@@ -36,7 +36,7 @@
     "rxjs": "^6.4.0",
     "rxjs-compat": "^6.4.0",
     "rxjs-tslint": "^0.1.6",
-    "swiper": "4.4.6",
+    "swiper": "6.5.1",
     "tslib": "^1.9.3",
     "zone.js": "^0.8.29"
   },
